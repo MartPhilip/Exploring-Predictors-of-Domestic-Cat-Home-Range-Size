@@ -1,4 +1,4 @@
-# Exploring-Predictors-of-Domestic-Cat-Home-Range-Size-
+# Intrinsic and extrinsic drivers of home range size in owned domestic cats Felis catus: Insights from a French suburban study
 Reproducible Code for the article : "Intrinsic and extrinsic drivers of home range size in owned domestic cats Felis catus: Insights from a French suburban study".
 
 The Stat-analysis RCode contain the code to generate all the analysis and figures provided in the article. This code only need two csv files provides with the article in supplementary data.
